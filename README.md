@@ -613,4 +613,4 @@ This SDK is provided for integration with the Ecocash Open API. Please refer to 
 
 ---
 
-**Built for the Zimbabwe fintech ecosystem**
+**Built with love by kudah ndhlovu for the Zimbabwe fintech ecosystem**
