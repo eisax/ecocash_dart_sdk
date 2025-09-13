@@ -6,8 +6,6 @@ repository: https://github.com/eisax/ecocash_dart_sdk
 issue_tracker: https://github.com/eisax/ecocash_dart_sdk/issues
 documentation: https://github.com/eisax/ecocash_dart_sdk#readme
 
-publish_to: https://pub.dev
-
 topics:
   - ecocash
   - mobile-money
