@@ -1,0 +1,8 @@
+2025-09-13 12:00:00 [INFO] Ecocash SDK initialized
+2025-09-13 12:00:01 [DEBUG] Generated source reference: SRC123456789
+2025-09-13 12:00:02 [INFO] Making payment: 10.50 USD
+2025-09-13 12:00:03 [DEBUG] Payment response: {status: success, transactionId: TX123456789}
+2025-09-13 12:00:04 [INFO] Processing refund: 5.25 USD
+2025-09-13 12:00:05 [DEBUG] Refund response: {status: success, refundId: RF123456789}
+2025-09-13 12:00:06 [INFO] Looking up transaction status
+2025-09-13 12:00:07 [DEBUG] Transaction lookup response: {status: completed, transactionId: TX123456789}

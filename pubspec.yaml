@@ -1,0 +1,49 @@
+name: ecocash_dart_sdk
+description: A comprehensive Dart SDK for integrating with the Ecocash Open API with advanced features like retry mechanisms, analytics, validation, and batch operations
+version: 2.0.0
+homepage: https://github.com/eisax/ecocash_dart_sdk
+repository: https://github.com/eisax/ecocash_dart_sdk
+issue_tracker: https://github.com/eisax/ecocash_dart_sdk/issues
+documentation: https://github.com/eisax/ecocash_dart_sdk#readme
+
+publish_to: https://pub.dev
+
+topics:
+  - ecocash
+  - mobile-money
+  - payment
+  - fintech
+  - zimbabwe
+  - api
+  - sdk
+  - dart
+  - flutter
+
+keywords:
+  - ecocash
+  - mobile money
+  - payment processing
+  - fintech
+  - zimbabwe
+  - api integration
+  - sdk
+  - dart
+  - flutter
+  - c2b payments
+  - refunds
+  - transaction lookup
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  uuid: ^4.1.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
+  
+
+executables:
+  ecocash_example: ecocash_example
