@@ -577,8 +577,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 
 **Author:** Kudah Ndlovu  
-**Email:** [josphatkndhlovu@gmail.com]  
-**GitHub:** [eisax]
+**GitHub:** eisax
 
 This SDK is provided for integration with the Ecocash Open API. Please refer to Ecocash's terms of service for API usage guidelines.
 
